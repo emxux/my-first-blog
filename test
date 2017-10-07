@@ -1,0 +1,4 @@
+
+name= "Emilia"
+print("Hello world " + name)
+print("Lenght of name Emilia") str(len(name)))
